@@ -1,0 +1,3 @@
+[submodule "Controle-Contaminados-Covid19"]
+	path = Controle-Contaminados-Covid19
+	url = git@github.com:nszchagas/Controle-Contaminados-Covid19
